@@ -1,0 +1,34 @@
+@startmindmap
+* Performance
+ * blogs
+  * Brendan Gregg
+  * Sasha Goldshtein
+  * Aleksey Shipilëv
+  * Martin Thompson
+ * locality
+  * sharding
+  * routing
+   * affinity
+   * hash
+   * partitioner
+ * tests
+  * performance
+  * load
+ left side
+ * profiling
+  * monitoring
+  * debugging
+ * optimization
+  * db query
+  * data
+   * protocols
+  * caching / reuse
+   * pools
+    * objects
+    * connection
+    * thread
+  * hw friendly
+   * memory alignment
+   * using DMA
+
+@endmindmap
