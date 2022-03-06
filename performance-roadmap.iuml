@@ -7,10 +7,11 @@
  * concepts
   * sharding
   * caching
-   * pools
-    * objects
-    * connection
-    * thread
+  * reverse proxy
+  * pools
+   * objects
+   * connection
+   * thread
  * testing
   * profiling
   * monitoring
