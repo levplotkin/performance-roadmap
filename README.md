@@ -22,6 +22,7 @@ examples
 - AT&T example of ejb to OSGi replacement
 - Trusteer: Solr optimization
 - BigId: SAP profiling
+- metrics: discount webshere portal monitoring example
 - Whatsapp case
   - medium
   - high-load
