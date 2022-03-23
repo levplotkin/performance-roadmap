@@ -16,9 +16,11 @@ blogs
     * [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/)
   * 
 
+[PASA](http://www.perfeng.com/classic-site/pasa.htm) : A Method for the Performance Assessment of Software Architectures
 examples
 ========
 - Spark: terminate
+- AT&T example of ejb to OSGi replacement
 - Trusteer: Solr optimization
 - BigId: SAP profiling
 - Whatsapp case
